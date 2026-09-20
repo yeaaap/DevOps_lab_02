@@ -1,0 +1,8 @@
+dump.sql
+.env
+.git
+__pycache__
+*.pyc
+*.log
+Dockerfile*
+README.md
